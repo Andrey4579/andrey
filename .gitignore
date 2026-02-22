@@ -1,2 +1,23 @@
+# Виртуальное окружение (самое важное!)
 venv/
+.venv/
+env/
+
+# Кэш Python
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Системные файлы (Pop!_OS / Ubuntu)
+.DS_Store
+.directory
+.pdm-python
+.python-version
+
+# Файлы настроек IDE (если используете PyCharm или VS Code)
+.idea/
+.vscode/
+
+# Базы данных (если есть)
+*.sqlite3
+
