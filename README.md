@@ -17,3 +17,4 @@
 sudo apt update
 sudo apt install python3-tk python3-venv
 
+touch test_file.txt
